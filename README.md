@@ -1,6 +1,7 @@
-# codes2things
-A course for  Mao Yisheng College of SWJTU.
-The idea if from MIT 's How to make almost everything（URL1:http://academy.cba.mit.edu/classes/, URL2:http://fabacademy.org）.
+# zero2hero:making
+A course for local makers /hackers / designers and etc, Running by Fablab Chengdu Fab Team.
+We hope you can become hero yourself by the exciting learning experence.
 
-# website
-This site URL is:http://swjtu-maker.github.io/codes2things
+# history
+The course was forked from codes2things course of SWJTU,And the idea is from the course —— "How to make almost anythings" of Fablab Academy.  
+
