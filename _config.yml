@@ -1,0 +1,8 @@
+title: Codes2things
+description: A course for  Mao Yisheng College of SWJTU
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
